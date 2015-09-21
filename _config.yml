@@ -1,14 +1,67 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
 
-# Build settings
-markdown: kramdown
+url: "http://legtzp.github.io"
+title: "{ Luis Gutiérrez }"
+description: "Website used to report the progress on the Git course for Semana I."
+keywords: "LuisE legtz semanaI git"
+favicon: "/img/favicon.ico"
+black-favicon: "/img/black-lab-glass.ico"
+google-tracking-id: "UA-35880426-3"
+disqus-shortname: "panossakkos"
+
+# Navigation bar links
+# Blog link in the blog and post pages will point to the blog.html#blog
+# In the default page it will point to the preview of the last post
+
+pages_list:
+  About: 'about'
+  Blog: 'blog'
+  Career: 'career'
+  Contact: 'contact'
+
+background-img: "/img/shapes.jpg"
+
+# About variables
+
+me-img: "/img/me.jpg"
+
+# Blog variables
+paginate: 15
+
+paginate_path: "blog/page:num"
+
+post-preview-words: 12
+
+fb-share: True
+twitter-share: True
+reddit-share: True
+
+# Career variables
+
+events:
+  - image: "/img/career/omdc.jpg"
+    date: "September 2015 - Today"
+    description: "Software Engineer @ Oracle Mexico Development Center, working @ the Genetic Bug Project"
+  - image: "/img/career/omdc2.jpg"
+    date: "July 2014 - August 2015"
+    description: "Software Intern @ Oracle Mexico Development Center, working @ the Genetic Bug Project"
+  - image: "/img/career/itesm.jpg"
+    date: "August 2011 - Today"
+    description: "Bachelor studies @ <a href=\"http://www.itesm.mx/wps/wcm/connect/Campus/GDA/Guadalajara/\" target=\"_blank\">Department of IT</a> on Computer Science"
+
+# First image of the Career timeline
+career-img: "/img/career/tomster.jpg"
+
+# Social networks variables (many more available: facebook, flickr, dribbble, pinterest, instagram, tumblr etc.)
+social:
+  - title: "rss"
+    url: "/feed.xml"
+  - title: "github"
+    url: "https://github.com/legtzp"
+  - title: "linkedin"
+    url: "https://mx.linkedin.com/in/legtzp"
+
+404-img: "/img/labtocat.png"
+
+# Exclusion list from the generated _site
+exclude: ["Rakefile", "LICENSE", "readme.markdown", "vendor"]
