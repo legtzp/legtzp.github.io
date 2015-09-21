@@ -11,10 +11,14 @@ Progress concerning the basic level of the github course in Semana I:
 With git status you can check the status of your files in git, the two main status are, tracked
 and untracked, in the tracked files there can be 3 states unmodified, modified and staged.<br/>
 
+<img class="img-responsive" src="/img/posts/basicLvl/1.png" alt="parts"><br/>
+
 2.- How to view the history or log of your repository. Why is this useful?<br/><br/>
 
 Using git log, you can add different options so it is more graphical and user friendly. To look for
 old editions of your code, check when and who did any change in the repository.<br/>
+<img class="img-responsive" src="/img/posts/basicLvl/2.png" alt="parts"><br/>
+<img class="img-responsive" src="/img/posts/basicLvl/2.1.png" alt="parts"><br/>
 
 3.- Ensure you understand the states of objects in a repository (untracked, unmodified, modified, staged)<br/><br/>
 Untracked:  All files that are not staged or in the snapshot of the repository.<br/>
@@ -23,8 +27,8 @@ Modified:   All files that have been modified.<br/>
 Staged:     All files that were modified and you've staged.<br/>
 
 4.- Push changes to GitHub from your local repository.<br/><br/>
-<img class="img-responsive" src="/img/posts/noobLvl/4.png" alt="parts"><br/>
-<img class="img-responsive" src="/img/posts/noobLvl/4.1.png" alt="parts"><br/>
+<img class="img-responsive" src="/img/posts/basicLvl/4.png" alt="parts"><br/>
+<img class="img-responsive" src="/img/posts/basicLvl/4.1.png" alt="parts"><br/>
 
 5.- Pull changes from GitHub to your local repository.<br/><br/>
 <img class="img-responsive" src="/img/posts/noobLvl/10.png" alt="parts"><br/>
@@ -35,13 +39,12 @@ Staged:     All files that were modified and you've staged.<br/>
 7.- Push and  pull tags to the remote (GitHub) repository.<br/><br/>
 
 8.- Setup git aliases for your local configuration.<br/><br/>
-
-<img class="img-responsive" src="/img/posts/noobLvl/8.png" alt="parts"><br/>
-<img class="img-responsive" src="/img/posts/noobLvl/8.1.png" alt="parts"><br/>
+<img class="img-responsive" src="/img/posts/basicLvl/8.png" alt="parts"><br/>
+<img class="img-responsive" src="/img/posts/basicLvl/8.1.png" alt="parts"><br/>
 
 9.- Get git to ignore certain files. Why do we want to do this?<br/><br/>
-
 To ignore certain files, like binaries that don't belong to the source code.<br/>
+<img class="img-responsive" src="/img/posts/basicLvl/9.png" alt="parts"><br/>
 
 10.- Check out how Git is supported in your favourite editor. Does it just show information or does it have support for Git commands?<br/><br/>
 Atom does not support git commands but it has built in support for projects in git, so it will add git specific features.<br/>
