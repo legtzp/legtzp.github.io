@@ -19,7 +19,7 @@ pages_list:
   Career: 'career'
   Contact: 'contact'
 
-background-img: "/img/shapes.jpg"
+background-img: "/img/bg.jpg"
 
 # About variables
 
