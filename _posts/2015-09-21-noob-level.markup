@@ -4,11 +4,37 @@ title:  "Noob Level Report"
 date:   2015-09-21 09:14:21
 categories: semanaI
 ---
-In this post I'll report all my progress concerning the noob level of the github course in Semana I
+In this post I'll report all my progress concerning the noob level of the github course in Semana I:
+
+1.- Create a Github account<br/>
+2.- Create a new GitHub repository form the GitHub web interface.<br/><br/>
+<img class="img-responsive" src="/img/posts/noobLvl/1y2.png" alt="parts"><br/>
+
+3.- Create a local repository on your computer.<br/><br/>
+<img class="img-responsive" src="/img/posts/noobLvl/3.png" alt="parts"><br/>
 
 
-Jekyll also offers powerful support for code snippets:
+4.- Clone a repository from GitHub to your computer.<br/><br/>
+<img class="img-responsive" src="/img/posts/noobLvl/4.png" alt="parts"><br/>
 
-{% highlight bash %}
-mkdir newFolder
-{% endhighlight %}
+5.- Add a file to your local repository.<br/><br/>
+<img class="img-responsive" src="/img/posts/noobLvl/5.png" alt="parts"><br/>
+<img class="img-responsive" src="/img/posts/noobLvl/5.1.png" alt="parts"><br/>
+
+6.- Remove a file from your local repository.<br/><br/>
+<img class="img-responsive" src="/img/posts/noobLvl/6.png" alt="parts"><br/>
+
+7.- Edit a file via the GitHub web interface.<br/><br/>
+<img class="img-responsive" src="/img/posts/noobLvl/7.png" alt="parts"><br/>
+<img class="img-responsive" src="/img/posts/noobLvl/7.1.png" alt="parts"><br/>
+<img class="img-responsive" src="/img/posts/noobLvl/7.2.png" alt="parts"><br/>
+
+8.- Add a file via the GitHub web interface.<br/><br/>
+<img class="img-responsive" src="/img/posts/noobLvl/8.png" alt="parts"><br/>
+
+9.- Delete a file via the GitHub web interface.<br/><br/>
+<img class="img-responsive" src="/img/posts/noobLvl/9.png" alt="parts"><br/>
+
+10.- Pull changes from GitHub to your local repository.<br/><br/>
+<img class="img-responsive" src="/img/posts/noobLvl/10.png" alt="parts"><br/>
+<img class="img-responsive" src="/img/posts/noobLvl/10.1.png" alt="parts"><br/>
