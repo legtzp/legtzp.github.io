@@ -29,9 +29,17 @@ Staged:     All files that were modified and you've staged.<br/>
 4.- Push changes to GitHub from your local repository.<br/><br/>
 <img class="img-responsive" src="/img/posts/basicLvl/4.png" alt="parts"><br/>
 
+5.- Pull changes from GitHub to your local repository.<br/><br/>
+<img class="img-responsive" src="/img/posts/noobLvl/10.png" alt="parts"><br/>
+<img class="img-responsive" src="/img/posts/noobLvl/10.1.png" alt="parts"><br/>
+
 6.- Create an use Tags at the local repository leve.<br/><br/>
+<img class="img-responsive" src="/img/posts/basicLvl/6.png" alt="parts"><br/>
 
 7.- Push and  pull tags to the remote (GitHub) repository.<br/><br/>
+<img class="img-responsive" src="/img/posts/basicLvl/7.png" alt="parts"><br/>
+<img class="img-responsive" src="/img/posts/basicLvl/7.1.png" alt="parts"><br/>
+<img class="img-responsive" src="/img/posts/basicLvl/7.2.png" alt="parts"><br/>
 
 8.- Setup git aliases for your local configuration.<br/><br/>
 <img class="img-responsive" src="/img/posts/basicLvl/8.png" alt="parts"><br/>
