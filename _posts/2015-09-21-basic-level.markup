@@ -49,5 +49,6 @@ Staged:     All files that were modified and you've staged.<br/>
 To ignore certain files, like binaries that don't belong to the source code.<br/>
 <img class="img-responsive" src="/img/posts/basicLvl/9.png" alt="parts"><br/>
 
-10.- Check out how Git is supported in your favourite editor. Does it just show information or does it have support for Git commands?<br/><br/>
+10.- Check out how Git is supported in your favorite editor. Does it just show information or does it have support for Git commands?<br/><br/>
 Atom does not support git commands but it has built in support for projects in git, so it will add git specific features.<br/>
+Sawicki, K. (n.d.). Git Integration. Retrieved September 21, 2015, from http://blog.atom.io/2014/03/13/git-integration.html
